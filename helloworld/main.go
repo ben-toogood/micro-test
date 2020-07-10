@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/micro/examples/helloworld/handler"
+	"github.com/bentoogood/micro-test/helloworld/handler"
 	"github.com/micro/go-micro/v2"
 	"github.com/micro/go-micro/v2/util/log"
 
-	helloworld "github.com/micro/examples/helloworld/proto"
+	helloworld "github.com/bentoogood/micro-test/helloworld/proto"
 )
 
 func main() {
