@@ -1,4 +1,4 @@
-module github.com/bentoogood/micro-test/helloworld
+module github.com/ben-toogood/micro-test/helloworld
 
 go 1.13
 

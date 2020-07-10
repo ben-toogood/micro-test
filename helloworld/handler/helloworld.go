@@ -5,7 +5,7 @@ import (
 
 	"github.com/micro/go-micro/v2/util/log"
 
-	helloworld "github.com/bentoogood/micro-test/helloworld/proto"
+	helloworld "github.com/ben-toogood/micro-test/helloworld/proto"
 )
 
 type Helloworld struct{}
